@@ -1,0 +1,8 @@
+C:\Users\samib\source\repos\VuejsApp1\VuejsApp1\obj\Debug\VuejsApp1.njsproj.CoreCompileInputs.cache
+C:\Users\samib\source\repos\VuejsApp1\VuejsApp1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\samib\Source\Repos\GU447Proj\VuejsApp1\obj\Debug\VuejsApp1.njsproj.CoreCompileInputs.cache
+C:\Users\samib\Source\Repos\GU447Proj\VuejsApp1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\samib\Source\Repos\GU447Proj\VuejsApp1\obj\Debug\VuejsApp1.njsprojAssemblyReference.cache
+C:\Users\stell\Desktop\447Proj\GU447Proj\VuejsApp1\obj\Debug\VuejsApp1.njsprojAssemblyReference.cache
+C:\Users\stell\Desktop\447Proj\GU447Proj\VuejsApp1\obj\Debug\VuejsApp1.njsproj.CoreCompileInputs.cache
+C:\Users\stell\Desktop\447Proj\GU447Proj\VuejsApp1\bin\Microsoft.NodejsTools.WebRole.dll

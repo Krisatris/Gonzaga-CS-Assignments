@@ -15,7 +15,7 @@ Compiled repository of all of my Gonzaga Computer Science assignments
 - CPSC 311 - UI/UX Design                             - Spring 2022
 - CPSC 326 - Organization of Programming Languages    - Spring 2022
 - CPSC 346 - Operating Systems                        - Fall 2022
-- CPSC 346 - Biomedical Informatics & Computing       - Fall 2022
+- CPSC 436 - Biomedical Informatics & Computing       - Fall 2022
 - CPSC 491 - Software Engineering (Senior Design)     - Fall 2022
 - CPSC 499 - Computers & Society (Senior Design)      - Fall 2022
 - (Spring 2023 classes to be added later)

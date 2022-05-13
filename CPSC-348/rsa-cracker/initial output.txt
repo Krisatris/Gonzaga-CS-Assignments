@@ -1,0 +1,189 @@
+prime list finished
+brute force d =  3
+Inputs:
+        n: 33
+        e: 7
+
+plaintext:
+        Expected: 11
+        Actual:   11
+ciphertext:
+        Expected: 11
+        Actual:   11
+d:
+        Expected: 3
+        Actual:   3
+Cracking time:                   2.1399999999949237e-05  seconds.
+Brute-force cracking time:       0.006302699999999994  seconds.
+
+prime list finished
+brute force d =  27
+Inputs:
+        n: 55
+        e: 3
+
+plaintext:
+        Expected: 22
+        Actual:   22
+ciphertext:
+        Expected: 33
+        Actual:   33
+d:
+        Expected: 27
+        Actual:   27
+Cracking time:                   3.300000000006076e-05  seconds.
+Brute-force cracking time:       0.0024478  seconds.
+
+prime list finished
+brute force d =  53
+Inputs:
+        n: 77
+        e: 17
+
+plaintext:
+        Expected: 33
+        Actual:   33
+ciphertext:
+        Expected: 66
+        Actual:   66
+d:
+        Expected: 53
+        Actual:   53
+Cracking time:                   3.540000000001875e-05  seconds.
+Brute-force cracking time:       0.0022132000000000263  seconds.
+
+prime list finished
+brute force d =  2418060515
+Inputs:
+        n: 8093802337
+        e: 5292724727
+
+plaintext:
+        Expected: 44
+        Actual:   44
+ciphertext:
+        Expected: 91365999
+        Actual:   91365999
+d:
+        Expected: 2418060515
+        Actual:   2418060515
+Cracking time:                   0.0026618000000000475  seconds.
+Brute-force cracking time:       0.12425579999999992  seconds.
+
+prime list finished
+brute force d =  27349951181233
+Inputs:
+        n: 193525589347327
+        e: 65537
+
+plaintext:
+        Expected: 55
+        Actual:   55
+ciphertext:
+        Expected: 15874205423572
+        Actual:   15874205423572
+d:
+        Expected: Unknown
+        Actual:   27349951181233
+Cracking time:                   0.002069399999999999  seconds.
+Brute-force cracking time:       140.859401  seconds.
+
+prime list finished
+brute force d =  2323746989340161
+Inputs:
+        n: 2547701629085297
+        e: 65537
+
+plaintext:
+        Expected: 66
+        Actual:   66
+ciphertext:
+        Expected: 1147658972741083
+        Actual:   1147658972741083
+d:
+        Expected: Unknown
+        Actual:   2323746989340161
+Cracking time:                   0.09492629999999735  seconds.
+Brute-force cracking time:       726.0720729  seconds.
+
+prime list finished
+brute force d =  9843735732800705
+Inputs:
+        n: 26205577898256853
+        e: 65537
+
+plaintext:
+        Expected: 77
+        Actual:   77
+ciphertext:
+        Expected: 11958464572474898
+        Actual:   11958464572474898
+d:
+        Expected: Unknown
+        Actual:   9843735732800705
+Cracking time:                   0.20702170000004116  seconds.
+Brute-force cracking time:       4721.777218499999  seconds.
+
+Inputs:
+        n: 588035197746923243
+        e: 65537
+
+plaintext:
+        Expected: 88
+        Actual:   88
+ciphertext:
+        Expected: 464119776098692961
+        Actual:   464119776098692961
+d:
+        Expected: Unknown
+        Actual:   76293746632708505
+Cracking time:                   0.3401674999995521  seconds.
+Could not crack the key ysing brute force.
+
+Inputs:
+        n: 962650700322326636233
+        e: 65537
+
+plaintext:
+        Expected: 99
+        Actual:   99
+ciphertext:
+        Expected: 830909963088407253419
+        Actual:   830909963088407253419
+d:
+        Expected: Unknown
+        Actual:   118522796289119907429
+Cracking time:                   0.7535106999994241  seconds.
+Could not crack the key ysing brute force.
+
+Inputs:
+        n: 23800004200970185016117
+        e: 65537
+
+plaintext:
+        Expected: 1010
+        Actual:   1010
+ciphertext:
+        Expected: 7636433958731833065843
+        Actual:   7636433958731833065843
+d:
+        Expected: Unknown
+        Actual:   2932466147677357733573
+Cracking time:                   3.2858874000003198  seconds.
+Could not crack the key ysing brute force.
+
+Inputs:
+        n: 122584996302390602628737
+        e: 65537
+
+plaintext:
+        Expected: 1111
+        Actual:   1111
+ciphertext:
+        Expected: 41231507207611791000091
+        Actual:   41231507207611791000091
+d:
+        Expected: Unknown
+        Actual:   35538931134044276033
+Cracking time:                   6.17099700000017  seconds.
+Could not crack the key ysing brute force.
