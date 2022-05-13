@@ -1,0 +1,12 @@
+fun void main() {
+    substring("hello world", 6, 10)
+    substring("hello world", 0, 0)
+    substring("hello world", 3, 8)
+}
+
+fun void substring(string s, int start, int end) {
+    for i from start upto end {
+        print(get(i, s))
+    }
+    print("\n")
+}

@@ -1,0 +1,15 @@
+type MyPLError {
+  var string msg = nil
+}
+
+fun void main() {
+  var e = new MyPLError
+  e.msg = "error detected!"
+  throw e
+  try {
+    x = 10
+  }
+  catch MyPLError e {
+    print(12)
+  }
+}

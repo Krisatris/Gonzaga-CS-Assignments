@@ -1,0 +1,11 @@
+fun void main() {
+    odd_nums(100)
+}
+
+fun void odd_nums(int input) {
+    for i from 1 upto input {
+        if (i % 2) == 1 {
+            print(itos(i) + "\n")
+        }
+    }
+}

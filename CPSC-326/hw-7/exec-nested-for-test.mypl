@@ -1,0 +1,10 @@
+fun void main() {
+    var x = 0
+    for i from 1 upto 5 {
+        for j from 1 upto 4 {
+            x = x + i*j
+        }
+        i = i + 1
+    }
+    print(x)
+}

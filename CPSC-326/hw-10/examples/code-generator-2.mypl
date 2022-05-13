@@ -1,0 +1,26 @@
+type LexerError {
+    var string msg = nil
+}
+type ParserError {
+    var string msg = nil
+}
+fun void f(int i) {
+    if i > 10 {
+        var LexerError x = new LexerError
+        x.msg = "lexer error detected"
+        throw x
+    } else {
+        var ParserError x = new ParserError
+        x.msg = "parser error detected"
+        throw x
+    }
+}
+fun void main() {
+    try {
+        f(11)
+    } catch LexerError x {
+        print(x.msg)
+    } catch ParserError x {
+        print(x.msg)
+    }
+}

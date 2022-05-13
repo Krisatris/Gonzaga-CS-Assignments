@@ -1,0 +1,17 @@
+type MyPLError {  
+    var string msg = nil  
+}  
+fun void f(int i) {  
+    var x = new MyPLError  
+    x.msg = "positive int" 
+    if i > 0 {  
+        throw x  
+    }  
+}  
+fun void main() {  
+    try {  
+        f(1)  
+    } catch MyPLError x {  
+        print("x.msg should be positive int: " + x.msg)  
+    }  
+} 

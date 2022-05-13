@@ -1,0 +1,11 @@
+FUN 'fun' line 2 column 1
+VOID_TYPE 'void' line 2 column 5
+ID 'main' line 2 column 10
+LPAREN '(' line 2 column 14
+RPAREN ')' line 2 column 15
+LBRACE '{' line 2 column 17
+ID 'print' line 3 column 3
+LPAREN '(' line 3 column 8
+STRING_VAL 'Hello World!\n' line 3 column 9
+RPAREN ')' line 3 column 25
+RBRACE '}' line 4 column 1

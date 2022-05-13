@@ -1,0 +1,14 @@
+# needed a basic for loop mypl file to look at my
+# for loop insturctions
+
+fun void main() {
+    for i from 1 upto 10 {
+        print(itos(i) + "\n")
+    }
+
+    var int cap = 100
+    for j from 1 upto cap {
+        print(itos(cap) + "\n")
+        cap = cap / 2
+    }
+}

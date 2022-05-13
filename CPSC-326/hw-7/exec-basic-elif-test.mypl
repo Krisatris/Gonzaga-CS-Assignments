@@ -1,0 +1,17 @@
+# from the code generator files, needed to see instructions
+# that this specific section creates
+
+fun void main() {
+    if 4 < 3 {  
+        print(' ')   
+        print(1)   
+    }   
+    elif 3 < 4 {
+        print(' ')   
+        print(2)
+    }   
+    else {   
+        print(' ')   
+        print(3)   
+    }   
+}

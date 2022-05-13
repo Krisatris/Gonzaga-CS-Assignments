@@ -1,0 +1,32 @@
+
+# Test try, catch, and throw stmts w/ pretty printer
+# please do not actually run this code it's only meant for the pretty printer
+# and therefore is not correctly typed. you will get errors on x = 10
+# and catch MyPLError e
+type
+
+  MyPLError {
+    var string msg = nil
+  }
+
+fun void main(
+)
+{
+  var e =
+      new MyPLError e.msg 
+
+= "error detected"
+throw e
+
+  try 
+  {
+    x = 10
+  }
+
+catch MyPLError e {
+            print(12)
+}
+
+        }
+       
+       

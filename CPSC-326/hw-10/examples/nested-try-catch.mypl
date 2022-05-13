@@ -1,0 +1,60 @@
+type LexerError {
+    var string msg = nil
+}
+type ParserError {
+    var string msg = nil
+}
+type StaticError {
+    var string msg = nil
+}
+type RuntimeError {
+    var string msg = nil
+}
+
+fun int f(int i) {
+    if i == 10 {
+        var LexerError e = new LexerError
+        e.msg = "lexer error found"
+        throw e
+    } else {
+        var ParserError e = new ParserError
+        e.msg = "parser error found"
+        throw e
+    }
+}
+
+fun int g(int i) {
+    if i == 1 {
+        var StaticError e = new StaticError
+        e.msg = "static error found"
+        throw e
+    } else {
+        var RuntimeError e = new RuntimeError
+        e.msg = "runtime error found"
+        throw e
+    }
+}
+
+fun void main() {
+    try {
+        f(10)
+    } catch LexerError e { # should catch this
+        print(e.msg + "\n")
+        try {
+            g(1)
+        } catch StaticError x { # then should catch this
+            print(x.msg + "\n")
+        } catch RuntimeError x {
+            print(x.msg + "\n")
+        }
+    } catch ParserError e {
+        print(e.msg + "\n")
+        try {
+            g(10)
+        } catch StaticError x {
+            print(x.msg + "\n")
+        } catch RuntimeError x {
+            print(x.msg + "\n")
+        }
+    }
+}
