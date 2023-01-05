@@ -21,3 +21,5 @@ Compiled repository of all of my Gonzaga Computer Science assignments
 \- CPSC 491 - Software Engineering (Senior Design)       - Fall 2022  
 \- CPSC 499 - Computers & Society (Senior Design)        - Fall 2022  
 \- CPSC 492 - Senior Design Project Lab (Senior Design)  - Spring 2023
+
+**Any classes labeled senior design are ommitted from this repository**
