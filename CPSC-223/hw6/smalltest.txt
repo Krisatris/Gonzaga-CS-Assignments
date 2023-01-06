@@ -1,0 +1,11 @@
+add HNAZM 10.55
+add CRXPR 170.33
+add LXAXH 5.77
+add FTXJN 12.66
+add XTORN 21.40
+add LZAWG 4.56
+add AIPTB 51.00
+add LDETT 48.42
+add UWLAE 32.60
+add HDNCL 10.29
+sort
