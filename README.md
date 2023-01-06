@@ -6,7 +6,7 @@ Compiled repository of all of my Gonzaga Computer Science assignments
 \- CPSC 223 - Algorithms & Abstract Data Structures      - Spring 2020  
 \- CPSC 224 - Software Development                       - Spring 2020  
 \- CPSC 260 - Computer Organization                      - Fall 2020  
-\- CPSC 311 - UI/UX Design                               - Spring 2022  
+\- CPSC 311 - UI/UX Design                               - Spring 2022**  
 \- CPSC 321 - Database Management Systems                - Fall 2021  
 \- CPSC 326 - Organization of Programming Languages      - Spring 2022  
 \- CPSC 334 - Linux and DevOps                           - Spring 2023  
@@ -23,3 +23,4 @@ Compiled repository of all of my Gonzaga Computer Science assignments
 \- CPSC 492 - Senior Design Project Lab (Senior Design)  - Spring 2023
 
 **Any classes labeled senior design are ommitted from this repository**
+**CPSC 311 is ommitted from this repository as we did not write code in that class
