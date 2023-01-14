@@ -1,7 +1,7 @@
 # CPSC 223 - Algorithms & Abstract Data Structures - Spring 2020 - Professor Shawn Bowers
 
 Algorithm analysis using Big-O notation, sorting, heaps, balanced binary search trees, and hash tables.    
-MATH 231 is a co-requisite or pre-requisite for this course. Fall and Spring.   
+MATH 231 is a co-requisite or pre-requisite for this course.
 
 All assignments were completed in C++.  
 

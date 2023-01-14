@@ -5,6 +5,6 @@ digital logic, computer system components, machine-level code, memory organizati
 computer arithmetic, assembly-language programming, and basic connections between high-level and 
 low-level languages (C and assembly). This course also serves as a foundation for courses on 
 networking. security, operating systems, and computer architecture, where a deeper understanding 
-of systems-level issues is required. Fall and Spring.
+of systems-level issues is required.
 
 Assignments were completed in a combination of x86 assembly and C++.
